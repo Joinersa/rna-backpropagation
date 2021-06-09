@@ -50,7 +50,7 @@ pesos_entrada = 2 * np.random.random((4, num_neuronios)) - 1
 pesos_camada_oculta = 2 * np.random.random((num_neuronios, 1)) - 1
 
 epocas = 1000
-taxa_aprendizado = 0.001
+taxa_aprendizado = 0.0001
 momento = 1
 
 
